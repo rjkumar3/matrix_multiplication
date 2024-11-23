@@ -1,0 +1,33 @@
+Command: /home/users7/rk366163/526L/Main/./simv -l main.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  May  5 19:02 2024
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+A = 
+  3   1   1
+  2   1   9
+  9   5   9
+B = 
+ 10   3   1
+  1   4   1
+  9   9   5
+Res = 
+ 40  22   9
+102  91  48
+176 128  59
+A = 
+  1   1   2
+  2   3   3
+  4   4   5
+B = 
+  9   8   7
+  6   5   4
+  3   2   1
+Res = 
+ 21  17  13
+ 45  37  29
+ 75  62  49
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1000 ps
+CPU Time:      0.190 seconds;       Data structure size:   0.0Mb
+Sun May  5 19:02:55 2024
